@@ -1,6 +1,6 @@
 Esta aplicacion web fue creada con el framework de Next.js, escogido especialmente por su seguridad para el backend, además de ser más facil de encontrar en internet y por su gran cantidad de librerias.
 
-Se necesita correr primero el backend para que pueda funcionar correctamente, una vez instalado solo se necesita ejecutar las siguienres lineas de código para ejecutarlo:
+Se necesita correr primero el backend para que pueda funcionar correctamente, una vez instalado solo se necesita ejecutar las siguientes lineas de código en la consola abierta en la carpeta del archivo, para ejecutarlo es:
 
 
 ## Ejecutar 
